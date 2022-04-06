@@ -1,0 +1,4 @@
+-- Resmi verileri icin linklerin eklenmesi
+-- Veriler yükseldigi zaman app icerisinde görünür bir sekilde uyari yapilmasi
+-- Veliler, cocuklarinin sinfinda korona vakalarini ögrenebilmesi.
+-- Koronadan dolayi, ögrenci ve aileririne yönelik yapilacak yardim linklerinin eklenmesi
